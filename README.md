@@ -7,7 +7,7 @@ The code which calls the API and writes the data into a database is contained in
 Task scheduler information:
 ![image](https://user-images.githubusercontent.com/88460223/144961097-091bcddd-b0fa-4cde-b6a9-1ec7907e94fa.png)
 
-## Execution Timing
+## Execution and timing
 
 Screen shot of the first database insertion (in the consistentExecution.txt file)
 
