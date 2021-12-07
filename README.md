@@ -36,5 +36,6 @@ Because of the initial oscillatory behavior and the eventual convergence, this l
 
 ## Sources
 https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80
+
 https://en.wikipedia.org/wiki/Series_(mathematics)
 
